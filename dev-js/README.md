@@ -23,7 +23,6 @@ TypeScript
 
 ### Video
 
-- [Building a Large Scale JavaScript Application in TypeScript](https://www.youtube.com/watch?v=3Jrg8hfNXmU)
-    Microsoft에서 Web Visual Studio인 "Monaco"를 TypeScript로 만들며 겪은 장점과 언어 특성을 설명
+- [Building a Large Scale JavaScript Application in TypeScript](https://www.youtube.com/watch?v=3Jrg8hfNXmU) Microsoft에서 Web Visual Studio인 "Monaco"를 TypeScript로 만들며 겪은 장점과 언어 특성을 설명
 
 
