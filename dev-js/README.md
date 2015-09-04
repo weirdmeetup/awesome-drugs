@@ -21,6 +21,10 @@ JavaScript
 AngularJS
 ---------
 
+### Page
+
+- [Angular 2 Survey Results](http://angularjs.blogspot.kr/2015/09/angular-2-survey-results.html) Angular 2 사용자 대상으로 진행한 설문조사 결과 (nipol)
+
 ### Repository
 
 - [Angular2-spotify-sample-app](https://github.com/daviddt/angular2-spotify-sample-app) (nipol)
