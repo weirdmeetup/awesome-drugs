@@ -16,6 +16,7 @@ JavaScript
 - [WebAssembly - CIL to WebAssembly compiler](https://github.com/WebAssembly/ilwasm) 중간 언어를 js로 컴파일하는 ilwasm.
 - [Mithril](https://lhorie.github.io/mithril/) 클라이언트 사이드 MVC 프레임워크. 빠른 속도가 특징. (nipol)
 - [Strong Gateway](https://github.com/strongloop/strong-gateway) strongloop에서 만든 API gateway. 코드는 공개지만 라이센스가 구독 모델용. (haurair)
+- [CobolScript](https://github.com/ajlopez/CobolScript) COBOL JavaScript 변환 컴파일러. 아직 작업중. (ahastudio)
 
 AngularJS
 ---------
@@ -26,6 +27,9 @@ AngularJS
 
 React
 -----
+
+### Page
+- [React Cheatsheet](http://ricostacruz.com/cheatsheets/react.html) React 사용법 간략하게 정리. (seoh)
 
 ### Respository
 - [Reacat Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) hot-reloading 등을 포함한 webpack 기반의 리엑트 보일러 플레이트 (seoh)
