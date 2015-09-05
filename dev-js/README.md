@@ -7,13 +7,13 @@ JavaScript
 ----------
 
 ### Book
-- [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)
+- [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) (seoh)
 
 ### Repository
-- [Node FeedParser](https://github.com/danmactough/node-feedparser)
-- [Intern - Testtool](https://theintern.github.io) 많은 테스트 방식을 지원하는 테스트 러너.
-- [rollup - ES6 Module Loader](https://github.com/rollup/rollup) 필요한 의존성만을 포함하여 번들화 시키는 모듈로더.
-- [WebAssembly - CIL to WebAssembly compiler](https://github.com/WebAssembly/ilwasm) 중간 언어를 js로 컴파일하는 ilwasm.
+- [Node FeedParser](https://github.com/danmactough/node-feedparser) (nipol)
+- [Intern - Testtool](https://theintern.github.io) 많은 테스트 방식을 지원하는 테스트 러너. (haruair)
+- [rollup - ES6 Module Loader](https://github.com/rollup/rollup) 필요한 의존성만을 포함하여 번들화 시키는 모듈로더. (seoh)
+- [WebAssembly - CIL to WebAssembly compiler](https://github.com/WebAssembly/ilwasm) 중간 언어를 js로 컴파일하는 ilwasm. (haruair)
 - [Mithril](https://lhorie.github.io/mithril/) 클라이언트 사이드 MVC 프레임워크. 빠른 속도가 특징. (nipol)
 - [Strong Gateway](https://github.com/strongloop/strong-gateway) strongloop에서 만든 API gateway. 코드는 공개지만 라이센스가 구독 모델용. (haurair)
 - [CobolScript](https://github.com/ajlopez/CobolScript) COBOL JavaScript 변환 컴파일러. 아직 작업중. (ahastudio)
@@ -23,11 +23,11 @@ AngularJS
 
 ### Page
 
-- [Angular 2 Survey Results](http://angularjs.blogspot.kr/2015/09/angular-2-survey-results.html) Angular 2 사용자 대상으로 진행한 설문조사 결과 (nipol)
+- [Angular 2 Survey Results](http://angularjs.blogspot.kr/2015/09/angular-2-survey-results.html) Angularjs 개발자 대상으로 진행한 설문조사 결과 (nipol)
 
 ### Repository
 
-- [Angular2-spotify-sample-app](https://github.com/daviddt/angular2-spotify-sample-app) (nipol)
+- [Angular2-spotify-sample-app](https://github.com/daviddt/angular2-spotify-sample-app) Angular 2.0 alpha 를 기반으로 한 router, template, mixin 예제. (nipol)
 
 React
 -----
@@ -43,18 +43,21 @@ TypeScript
 
 ### Page
 
-- [TypeScript Official Site](http://www.typescriptlang.org) 타입스크립트 공식 사이트.
-- [DefinitelyTyped](http://definitelytyped.org) 타입스크립트 뉴스, 아티클, 가이드 제공.
-- [TSD](http://definitelytyped.org/tsd/) DefinitelyTyped 제공, 타입스크립트 정의 페키지(.d.ts) 매니저.
-- [Getting started with TypeScript in AngularJS application](http://www.codeproject.com/Articles/888764/Getting-started-with-TypeScript-in-AngularJS-appli) Angularjs에서 TypeScript를 사용하는 예제.
+- [TypeScript Official Site](http://www.typescriptlang.org) 타입스크립트 공식 사이트. (nipol)
+- [DefinitelyTyped](http://definitelytyped.org) 타입스크립트 뉴스, 아티클, 가이드 제공. (justinclonicle)
+- [TSD](http://definitelytyped.org/tsd/) DefinitelyTyped 제공, 타입스크립트 정의 페키지(.d.ts) 매니저. (nipol)
+- [Getting started with TypeScript in AngularJS application](http://www.codeproject.com/Articles/888764/Getting-started-with-TypeScript-in-AngularJS-appli) Angularjs에서 TypeScript를 사용하는 예제. (nipol)
+- [TypeScript Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap) 타입스크립트의 발전 블루프린트. (nipol)
+- [TypeScript 1.6 beta out!](http://blogs.msdn.com/b/typescript/archive/2015/09/02/announcing-typescript-1-6-beta-react-jsx-better-error-checking-and-more.aspx) react/jsx 를 지원하기 시작 외 다양한 기능들. (nipol)
+- [Moving lower in the stack](http://www.jonathanturner.org/2015/09/moving-lower-in-stack.html) 타입스크립트 개발팀이 Edge/IE 자바스크립트 컴파일러인, 차크라 개발팀으로 이동했다고 한다. (nipol)
 
 ### Video
 
-- [Building a Large Scale JavaScript Application in TypeScript](https://www.youtube.com/watch?v=3Jrg8hfNXmU) Microsoft에서 Web Visual Studio인 "Monaco"를 TypeScript로 만들며 겪은 장점과 언어 특성을 설명.
+- [Building a Large Scale JavaScript Application in TypeScript](https://www.youtube.com/watch?v=3Jrg8hfNXmU) Microsoft에서 Web Visual Studio인 "Monaco"를 TypeScript로 만들며 겪은 장점과 언어 특성을 설명. (nipol)
 
 ### Repository
 
-- [TS-Minify](https://github.com/angular/ts-minify) 타입 힌팅을 이용한 TypeScript Minification tool.
-- [TypeScript Sample](https://github.com/Microsoft/TypeScriptSamples) Microsoft에서 제공하는 TypeScript Sample.
+- [TS-Minify](https://github.com/angular/ts-minify) 타입 힌팅을 이용한 TypeScript Minification tool. (nipol)
+- [TypeScript Sample](https://github.com/Microsoft/TypeScriptSamples) Microsoft에서 제공하는 TypeScript Sample. (nipol)
 - [TypeScript-WebApi-Sample](https://github.com/devkimchi/TypeScript-WebApi-Sample) TypeScript와 Angularjs를 사용한, WebApi Use-case Sample.
 - [Closure-to-dts](https://github.com/angular/closure-to-dts) 클로저 .d.ts 변환기. 아직 실험기능. (nipol)
