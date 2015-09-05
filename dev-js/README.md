@@ -13,7 +13,30 @@ JavaScript
 - [Node FeedParser](https://github.com/danmactough/node-feedparser)
 - [Intern - Testtool](https://theintern.github.io) 많은 테스트 방식을 지원하는 테스트 러너.
 - [rollup - ES6 Module Loader](https://github.com/rollup/rollup) 필요한 의존성만을 포함하여 번들화 시키는 모듈로더.
-- [WebAssembly - CIL to WebAssembly compiler](https://github.com/WebAssembly/ilwasm) 중간 언어를 js로 컴파일하는 ilwasm. 
+- [WebAssembly - CIL to WebAssembly compiler](https://github.com/WebAssembly/ilwasm) 중간 언어를 js로 컴파일하는 ilwasm.
+- [Mithril](https://lhorie.github.io/mithril/) 클라이언트 사이드 MVC 프레임워크. 빠른 속도가 특징. (nipol)
+- [Strong Gateway](https://github.com/strongloop/strong-gateway) strongloop에서 만든 API gateway. 코드는 공개지만 라이센스가 구독 모델용. (haurair)
+- [CobolScript](https://github.com/ajlopez/CobolScript) COBOL JavaScript 변환 컴파일러. 아직 작업중. (ahastudio)
+
+AngularJS
+---------
+
+### Page
+
+- [Angular 2 Survey Results](http://angularjs.blogspot.kr/2015/09/angular-2-survey-results.html) Angular 2 사용자 대상으로 진행한 설문조사 결과 (nipol)
+
+### Repository
+
+- [Angular2-spotify-sample-app](https://github.com/daviddt/angular2-spotify-sample-app) (nipol)
+
+React
+-----
+
+### Page
+- [React Cheatsheet](http://ricostacruz.com/cheatsheets/react.html) React 사용법 간략하게 정리. (seoh)
+
+### Respository
+- [Reacat Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) hot-reloading 등을 포함한 webpack 기반의 리엑트 보일러 플레이트 (seoh)
 
 TypeScript
 ----------
@@ -34,4 +57,4 @@ TypeScript
 - [TS-Minify](https://github.com/angular/ts-minify) 타입 힌팅을 이용한 TypeScript Minification tool.
 - [TypeScript Sample](https://github.com/Microsoft/TypeScriptSamples) Microsoft에서 제공하는 TypeScript Sample.
 - [TypeScript-WebApi-Sample](https://github.com/devkimchi/TypeScript-WebApi-Sample) TypeScript와 Angularjs를 사용한, WebApi Use-case Sample.
-
+- [Closure-to-dts](https://github.com/angular/closure-to-dts) 클로저 .d.ts 변환기. 아직 실험기능. (nipol)
