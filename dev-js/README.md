@@ -7,7 +7,7 @@ JavaScript
 ----------
 
 ### News
-- [NodeJS v4.0.0 RC1 Released](https://nodejs.org/download/rc/v4.0.0-rc.1/) V8 4.5 포함 등 (nipol)
+- [NodeJS v4.0.0 Released](https://github.com/nodejs/node/blob/v4.0.0/CHANGELOG.md) 첫 LTS 정식버전 (nipol)
 
 ### Article
 - [An Introduction to Microservices, Part 1](https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/) 마이크로서비스에 대한 소개 (nipol)
@@ -24,6 +24,7 @@ JavaScript
 - [Strong Gateway](https://github.com/strongloop/strong-gateway) strongloop에서 만든 API gateway. 코드는 공개지만 라이센스가 구독 모델용. (haurair)
 - [CobolScript](https://github.com/ajlopez/CobolScript) COBOL JavaScript 변환 컴파일러. 아직 작업중. (ahastudio)
 - [uBlock](https://github.com/chrisaljoudi/ublock) 웹브라우저 광고차단 플러그인. (nipol)
+- [Highland.js](http://highlandjs.org) 스트림 기반의 함수형 유틸리티 벨트. (golbin)
 
 AngularJS
 ---------
