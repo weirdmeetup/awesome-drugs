@@ -7,7 +7,7 @@ JavaScript
 ----------
 
 ### News
-- [NodeJS v4.0.0 Released](https://github.com/nodejs/node/blob/v4.0.0/CHANGELOG.md) 첫 LTS 정식버전 (nipol)
+- [NodeJS v4.0.0 Released](https://github.com/nodejs/node/blob/v4.0.0/CHANGELOG.md) iojs와 Nodejs가 Merge된 4.0.0 안정버전 (nipol)
 
 ### Article
 - [An Introduction to Microservices, Part 1](https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/) 마이크로서비스에 대한 소개 (nipol)
