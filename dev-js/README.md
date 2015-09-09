@@ -8,9 +8,15 @@ JavaScript
 
 ### News
 - [NodeJS v4.0.0 Released](https://github.com/nodejs/node/blob/v4.0.0/CHANGELOG.md) iojs와 Nodejs가 Merge된 4.0.0 안정버전 (nipol)
+- [asmjs](http://asmjs.org) asmjs. (haruair)
 
 ### Article
 - [An Introduction to Microservices, Part 1](https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/) 마이크로서비스에 대한 소개 (nipol)
+- [MVVM 패턴 소개](https://msdn.microsoft.com/en-us/library/hh848246.aspx) (justinchronicle)
+- [Understanding MVVM - A Guide For JavaScript Developers](http://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/) (justinchronicle)
+- [MVVM 안내](http://www.codeproject.com/Articles/100175/Model-View-ViewModel-MVVM-Explained) MVVM vs MVP vs MVC 비교 (justinchronicle)
+- [Angular 앱에 Web API 적용하기](http://blog.aliencube.org/ko/2015/09/06/applying-web-api-to-angular-app/) (justinchronicle)
+- [BIG WEB APP? COMPILE IT!](http://kripken.github.io/mloc_emscripten_talk/) asmjs의 소개 슬라이드. (nipol)
 
 ### Book
 - [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) (seoh)
@@ -24,6 +30,7 @@ JavaScript
 - [Strong Gateway](https://github.com/strongloop/strong-gateway) strongloop에서 만든 API gateway. 코드는 공개지만 라이센스가 구독 모델용. (haurair)
 - [CobolScript](https://github.com/ajlopez/CobolScript) COBOL JavaScript 변환 컴파일러. 아직 작업중. (ahastudio)
 - [uBlock](https://github.com/chrisaljoudi/ublock) 웹브라우저 광고차단 플러그인. (nipol)
+- [Rusthon](https://github.com/rusthon/Rusthon) 다양한 언어를 마크다운 안에서 트랜스파일, 컴파일 하게 하는 도구. (etermory)
 - [Highland.js](http://highlandjs.org) 스트림 기반의 함수형 유틸리티 벨트. (golbin)
 
 AngularJS
@@ -34,7 +41,6 @@ AngularJS
 - [Angular 2 Survey Results](http://angularjs.blogspot.kr/2015/09/angular-2-survey-results.html) Angularjs 개발자 대상으로 진행한 설문조사 결과 (nipol)
 - [Angular 2 Series - Part 1: Working with Pipes](https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/) Angular2 pipe 사용 방법에 대한 튜토리얼 (nipol)
 - [Angular QuickStart](https://angular.io/docs/js/latest/quickstart.html) Angular 2 공식 웹사이트 quickstart 페이지 (haruair)
->>>>>>> Stashed changes
 
 ### Repository
 
