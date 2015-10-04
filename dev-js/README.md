@@ -69,6 +69,8 @@ TypeScript
 - [Moving lower in the stack](http://www.jonathanturner.org/2015/09/moving-lower-in-stack.html) 타입스크립트 개발팀이 Edge/IE 자바스크립트 컴파일러인, 차크라 개발팀으로 이동했다고 한다. (nipol)
 - [TypeScript 라이브러리를 이용한 Angular 앱 만들기](http://blog.aliencube.org/ko/2015/09/05/building-angular-app-using-typescript/) MS 스택에서 Angular 앱을 만드는 방법에 대한 튜토리얼 (justinchronicle)
 - [JSX in TypeScript](https://github.com/Microsoft/TypeScript/wiki/JSX) TypeScript의 JSX 지원 안내 (nipol)
+- [Introduction to TypeScript](https://www.edx.org/course/introduction-typescript-microsoft-dev201x-0) Edx TypeScript 강의 (nipol)
+- [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/) VS 환경에서 TypeScript 사용하기 (nipol)
 
 ### Video
 
@@ -81,3 +83,5 @@ TypeScript
 - [TypeScript-WebApi-Sample](https://github.com/devkimchi/TypeScript-WebApi-Sample) TypeScript와 Angularjs를 사용한, WebApi Use-case Sample.
 - [Closure-to-dts](https://github.com/angular/closure-to-dts) 클로저 .d.ts 변환기. 아직 실험기능. (nipol)
 - [plugin-typescript](https://github.com/frankwallis/plugin-typescript/tree/master/example/react) systemJS에서 사용 가능한 TypeScript 로더.
+- [HerringtonDarkholme/typescript-repl](https://github.com/HerringtonDarkholme/typescript-repl) TypeScript REPL 구현 (haruair)
+- [niutech/typescript-interpret](https://github.com/niutech/typescript-interpret) TypeScript REPL 구현 (haruair)
